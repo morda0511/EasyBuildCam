@@ -1,0 +1,7 @@
+﻿{
+  "name": "EasyBuildCam",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Fly the camera. Build from anywhere. Free-fly build cam (F6 + hammer): WASD fly, build far from your character. Client only.",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
+}
