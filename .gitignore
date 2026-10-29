@@ -4,3 +4,6 @@ obj/
 .vs/
 package/*.dll
 *.zip
+package/
+thunderstore-assets/build-cam/glance-simple/
+thunderstore-assets/build-cam/logo-build-cam.png
